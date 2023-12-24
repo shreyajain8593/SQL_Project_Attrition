@@ -1,2 +1,16 @@
 # SQL_Project_Attrition
 My first SQL project
+![1](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/45095ca7-ec0f-4a52-98c9-f2085e334eff)
+![2](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/047abd7b-8c81-47b4-813f-b0b6cabd8b06)
+![3](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/7c54093f-1eba-4922-9d0a-3e7d8d64ed83)
+![4](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/66665f2e-ee18-4004-bb7e-4a62a0a7f0b4)
+![5](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/e4ddaeb4-73f4-4ba3-9fd3-008f11abf9a1)
+![6](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/f586d7c1-b428-4b39-899e-c803e290170b)
+![7](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/dd6c62a0-670c-4d8d-9a4f-d334c49ba91e)
+![8](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/1f969f5c-c129-4a3f-bb5e-0d4d4ab93b78)
+![9](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/5152b6dc-2a13-4b49-92d8-75be1449d3b8)
+![10](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/ff1515c8-94eb-45f2-bda1-247131efd502)
+![11](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/9b6f060e-6cf0-4971-a59b-ca1ed2eafd99)
+![12](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/25a247cc-3e96-45d1-994d-3305b8110e49)
+![13](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/35efcc81-b403-4524-8404-b1e1bb3a12a8)
+![14](https://github.com/shreyajain8593/SQL_Project_Attrition/assets/86959176/3eb917bd-129b-4bfd-ad73-c894f3072fde)
